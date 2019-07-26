@@ -58,8 +58,3 @@
 - finally run "php artisan serve" to start application.
 
 ### Note
-
-The Default user for admin is:
-
-email: lenard.mangayayam@voting-system.com
-password: admin (feel free to change it if you want)
